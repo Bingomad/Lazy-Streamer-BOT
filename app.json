@@ -6,7 +6,6 @@
       "stream",
       "web",
       "pyrogram",
-      "aiohttp",
       "python",
       "plugin",
       "modular",
